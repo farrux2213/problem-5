@@ -13,13 +13,7 @@
 //   console.log(jadval);
 //   i++;
 // }
-console.log(0 * 9);
-console.log(0 * 9);
-console.log(-1 * 10);
-console.log(-1 * 10);
-console.log(-1 * 10);
-console.log(-1 * 10);
-console.log(-1 * 10);
-console.log(-1 * 10);
-console.log(-1 * 10);
+let farrukh920 = "50c920na";
+
+console.log(farrukh920[0]);
 console.log(-1 * 10);
