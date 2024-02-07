@@ -28,4 +28,6 @@ console.log(farrukh920.split());
 // console.log(farrukh920.split());
 console.log(farrukh920.split());
 console.log(farrukh920.split());
-console.log(farrukh920.split());
+let bvbwvwuvowuvw = 200;
+
+console.log(bvbwvwuvowuvw[1]);
