@@ -13,3 +13,4 @@
 //   console.log(jadval);
 //   i++;
 // }
+console.log(0 * 9);
