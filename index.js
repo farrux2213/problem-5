@@ -16,3 +16,6 @@
 console.log(0 * 9);
 console.log(0 * 9);
 console.log(-1 * 10);
+console.log(-1 * 10);
+console.log(-1 * 10);
+console.log(-1 * 10);
