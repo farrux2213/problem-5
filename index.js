@@ -13,25 +13,3 @@
 //   console.log(jadval);
 //   i++;
 // }
-let farrukh920 = "  50c920na      ";
-
-console.log(farrukh920.length);
-console.log(-1 * 10);
-console.log(farrukh920.split());
-console.log(farrukh920.split());
-console.log(farrukh920.split());
-// console.log(farrukh920.split());
-// console.log(farrukh920.split());
-// console.log(farrukh920.split());
-// console.log(farrukh920.split());
-// console.log(farrukh920.split());
-// console.log(farrukh920.split());
-console.log(farrukh920.split());
-console.log(farrukh920.split());
-let bvbwvwuvowuvw = 200;
-
-console.log(bvbwvwuvowuvw[1]);
-console.log(bvbwvwuvowuvw[1]);
-console.log(bvbwvwuvowuvw[1]);
-console.log(bvbwvwuvowuvw[1]);
-console.log(bvbwvwuvowuvw[1]);
