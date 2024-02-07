@@ -13,7 +13,8 @@
 //   console.log(jadval);
 //   i++;
 // }
-let farrukh920 = "50c920na";
+let farrukh920 = "  50c920na      ";
 
-console.log(farrukh920[0]);
+console.log(farrukh920.length);
 console.log(-1 * 10);
+console.log(farrukh920.split());
