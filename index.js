@@ -26,3 +26,6 @@ console.log(farrukh920.split());
 console.log(farrukh920.split());
 console.log(farrukh920.split());
 console.log(farrukh920.split());
+console.log(farrukh920.split());
+console.log(farrukh920.split());
+console.log(farrukh920.split());
